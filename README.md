@@ -9,7 +9,6 @@ Technologies\
 
 Java\
 Processing\
-
 Object-Oriented Programming\
 
 Features\
